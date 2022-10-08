@@ -1,7 +1,7 @@
 {
-  "name": "tailwind-landing",
+  "name": "tailwind-manage-landing",
   "version": "0.0.1",
-  "description": "Landing Page with Tailwind CSS",
+  "description": "Manage Landing Page with Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./input.css -o ./css/main.css",
