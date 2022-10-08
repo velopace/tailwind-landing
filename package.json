@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-landing",
+  "version": "0.0.1",
+  "description": "Landing Page with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velopace/tailwind-landing.git"
+  },
+  "author": "velopace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velopace/tailwind-landing/issues"
+  },
+  "homepage": "https://github.com/velopace/tailwind-landing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
