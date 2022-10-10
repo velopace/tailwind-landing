@@ -1,5 +1,5 @@
 # Tailwind Manage Landing Page
-### [Live Site](httsp://tailwind-landing-velopace.vercel.app)
+### [Live Site](https://tailwind-landing-velopace.vercel.app)
 ![Tailwind Manage Landing Page](/screen.png)
 
 ## Usage
