@@ -961,7 +961,7 @@ body {
 }
 
 .open {
-  transform: rotate(90deg) translateY(0px);
+  transform: rotate(90deg) translate(0px 0px);
 }
 
 .open .hamburger-top {
